@@ -13,9 +13,7 @@
 <p align="center">
   Aqui compartilho projetos, estudos e soluções desenvolvidas durante minha jornada em Engenharia de Software.
 </p>
-
 ---
-
 <div align="center">
 
 <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="C++"/>
@@ -52,19 +50,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
 
 </div>
-
 ---
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=G-alberton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-alberton&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
 <div align="center">
 
 <a href="https://www.linkedin.com/">
@@ -76,15 +62,11 @@
 </a>
 
 </div>
-
 ---
-
 <p align="center">
     "Hello World" garantido.
 </p>
-
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/G-alberton/G-alberton/pacman-output/pacman-contribution-graph-dark.svg">
