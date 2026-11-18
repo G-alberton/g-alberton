@@ -1,7 +1,7 @@
 <h1 align="center">Gustavo Borghezan Alberton</h1>
 
 <h3 align="center">
-  Software Engineering Student • Java • Python • C++ • Web Developer
+  Software Engineering Student • Progres ABL • Java • Python • C++ • Web Developer
 </h3>
 
 <br>
